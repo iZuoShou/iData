@@ -3,3 +3,4 @@
 #TVbox配置
 
 http://byyds.top/w.txt
+http://刚刚.live/猫
