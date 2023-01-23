@@ -1,6 +1,3 @@
-#iData  自己用的一些文件
+#iData  
 
-#TVbox配置
-
-http://byyds.top/w.txt
-http://刚刚.live/猫
+记录自己用的一些文件 勿外传
